@@ -71,5 +71,5 @@ Also test keyboard navigation, visible focus, 200% zoom and at least two browser
 ## Deployment
 Deploy with GitHub Pages or Netlify.
 
-Repository URL: add your repository URL here  
-Public website URL: add your deployed URL here
+Repository URL: https://github.com/meizaitu/asik3hotel/
+Public website URL: https://meizaitu.github.io/asik3hotel/
